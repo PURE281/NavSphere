@@ -8,6 +8,6 @@ GITHUB_ID = "Ov23livpf0oyUf9fzc4c"
 GITHUB_OWNER = "PURE281"
 GITHUB_REPO = "NavSphere"
 GITHUB_BRANCH = "main"
-NEXTAUTH_URL = "https://rednav.pages.dev/api/authh"
-NEXT_PUBLIC_API_URL="https://rednav.pages.dev/api/auth"
+NEXTAUTH_URL = "https://rednav.pages.dev/api/auth"
+NEXT_PUBLIC_API_URL="https://rednav.pages.dev"
 
